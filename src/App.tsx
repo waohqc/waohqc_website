@@ -46,8 +46,8 @@ export default class SearchPage extends React.Component {
         <div style={{ paddingBottom: 20 }}>
           <Image
             preview={false}
-            height={(68 * 2) / 3}
-            width={(344 * 2) / 3}
+            height={594 / 6}
+            width={1310 / 6}
             src={logo}
           />
         </div>
